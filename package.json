@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-native-elements/base": "react-native-elements/react-native-elements#base",
+    "@react-native-elements/themed": "react-native-elements/react-native-elements#themed",
+    "add": "^2.0.6",
+    "react-native-vector-icons": "^9.1.0"
+  }
+}
